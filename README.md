@@ -2,7 +2,7 @@
 
 Handle login with flask using two diferent databases:
 
-- UE | European and the;
+- UE | European;
 - BR | Brazilian;
 
 These databases are separed to respect the LGPD (Lei geral de proteção dos dados) and RGPD (Regulação geral sobre proteção dos dados).
